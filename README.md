@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# VideoPlayer React Project
+
+A simple, responsive video player built using React that allows users to play, pause, skip, and control videos seamlessly.
+
+## Features
+- Play/Pause functionality
+- Seek bar with custom time controls
+- Volume control
+- Playlist support (optional)
+- Custom video controls
+
+>>>>>>> a1f1b46b7c3ad4b7ace0ebdcebccaa37f1a8568b
